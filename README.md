@@ -24,16 +24,15 @@ open Tetris-Unity in Unity Editor
 ```
 
 🔧 Requirements
-Unity: Version 2021.3.x or above
+Unity: Version 2022.3.10 or above
 Operating System: Windows, macOS, or Linux
-.NET: .NET 4.x
 
-🎮 Controls
-⬅️ Left Arrow: Move tetrominoes to the left
-➡️ Right Arrow: Move tetrominoes to the right
-⬇️ Down Arrow: Move tetrominoes down faster
-⏺️ Spacebar: Rotate the tetrominoes
-⏸️ Esc: Pause the game
+## 🎮 Controls  
+- **⬅️ Left Arrow**: Move tetromino left  
+- **➡️ Right Arrow**: Move tetromino right  
+- **⬇️ Down Arrow**: Soft drop (move tetromino down one step)  
+- **⏺️ Spacebar**: Hard drop (instantly place tetromino)  
+- **Q / E**: Rotate tetromino counterclockwise / clockwise  
 
 👥 Contribute
 We welcome contributions! Here are some ways you can get involved:
