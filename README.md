@@ -27,7 +27,7 @@
 ## 🚀 Installation  
 To run the project locally, follow these steps:  
 ```sh
-git clone https://github.com/Tetris-Unity.git
+git clone https://github.com/edaaydemir/TetrisGame
 cd Tetris-Unity
 open Tetris-Unity in Unity Editor
 ```
