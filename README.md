@@ -43,5 +43,13 @@ We welcome contributions! Here are some ways you can get involved:
 ✨ Submit a pull request for bug fixes or new features.
 💡 Suggest new features to improve the gameplay experience.
 
+## 📸 Screenshots  
 
+### Main Menu  
+![Ekran görüntüsü 2025-03-17 140029](https://github.com/user-attachments/assets/8139d154-b7d6-4402-9a3c-a90668f02013)
+
+### Gameplay  
+![Ekran görüntüsü 2025-03-17 140040](https://github.com/user-attachments/assets/45d42320-0987-44bb-891d-dae1ee44b36c)
+
+### Game Over 
 ![Ekran görüntüsü 2025-03-17 140155](https://github.com/user-attachments/assets/fea52b86-c313-4b7c-bef4-8e9da7730788)
